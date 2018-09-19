@@ -6,9 +6,9 @@
  * Time: 11:03
  */
 
-namespace gurichna\smartline;
+namespace gradyskyi\smartline;
 
-class Smartline
+class SmartlineTest
 {
     public function __construct()
     {
