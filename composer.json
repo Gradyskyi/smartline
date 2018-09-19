@@ -1,0 +1,12 @@
+{
+    "name": "gradyskyi/smartline",
+    "description": "smartline test",
+    "authors": [
+        {
+            "name": "Roman Gradyskyi",
+            "email": "gurichna@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
