@@ -2,7 +2,7 @@
 smartline test
 ______________
 
-Instalation:
+Installation:
 ```sh
 composer require gradyskyi/smartline
 ```
